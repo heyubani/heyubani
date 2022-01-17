@@ -13,19 +13,7 @@
 </details>
 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/nextcord/nextcord-ext-menus/issues/26) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-2. 🎉 Merged PR [#79](https://github.com/heyubani/readme-typing-svg/pull/79) in [DenverCoder1/readme-typing-svg](https://github.com/heyubani/readme-typing-svg)
-3. ❗️ Closed issue [#57](https://github.com/heyubani/readme-typing-svg/issues/57) in [DenverCoder1/readme-typing-svg](https://github.com/heyubani/readme-typing-svg)
-4. 🎉 Merged PR [#293](https://github.com/heyubani/custom-icon-badges/pull/293) in [DenverCoder1/custom-icon-badges](https://github.com/heyubani/custom-icon-badges)
-5. 🎉 Merged PR [#285](https://github.com/heyubani/custom-icon-badges/pull/285) in [DenverCoder1/custom-icon-badges](https://github.com/heyubani/custom-icon-badges)
-<!--END_SECTION:activity-->
-</details>
 
 <!-- https://github.com/heyubani/github-readme-activity-graph -->
 <a href="https://github.com/heyubani/github-readme-activity-graph"><img alt="Heyubani's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=heyubani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
