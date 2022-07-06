@@ -1,4 +1,4 @@
-### Hi there, I’m \ Miracle 👋
+### Hi there, I’m Miracle 👋
 
 ## 📊 Github stats
 
