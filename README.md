@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Backend Engineer | Scalable APIs | Cloud & DevOps</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&color=F7B42C&center=true&vCenter=true&width=500&lines=Building+high-performance+backend+systems;Golang+%7C+NestJS+%7C+Microservices;Docker+%7C+Kubernetes+%7C+SQL+%7C+NoSQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&color=F7B42C&center=true&vCenter=true&width=500&lines=Building+high-performance+backend+systems;NodeJs+%7C+Golang+%7C+NestJS+%7C+Microservices;Docker+%7C+Kubernetes+%7C+SQL+%7C+NoSQL" />
 </p>
 
 ---
