@@ -19,9 +19,11 @@
 ## 📈 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyubani&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=heyubani&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=7200&token=YOUR_PERSONAL_ACCESS_TOKEN">
   <img src="https://streak-stats.demolab.com/?user=heyubani&theme=tokyonight">
+  <img src="https://github-profile-trophy.vercel.app/?username=heyubani&theme=tokyonight&no-bg=true&no-frame=true&column=7">
 </p>
+
 
 
 ---
