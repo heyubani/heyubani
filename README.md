@@ -35,7 +35,7 @@
 
 💼 **LinkedIn:** [miracle-nwaubani](https://www.linkedin.com/in/miracle-nwaubani/)  
 🐦 **Twitter/X:** [your-twitter](https://twitter.com/yourhandle)  
-📧 **Email:** liegeubani@gmail.com 
+📧 **Email:** [liegeubani@gmail.com](mailto:liegeubani@gmail.com)
 
 <p align="center">
   <a href="https://github.com/heyubani">
